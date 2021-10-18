@@ -1,0 +1,73 @@
+*{margin: 0;
+padding: 0;
+}  
+
+/* header
+ {
+    background-color: #e963d7;
+} */
+
+/* #nav
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    align-content: baseline;
+    text-decoration: none; 
+    color: black;
+    margin: 5px;
+
+}
+
+#nav a
+{
+    text-decoration: none;
+    color: blue
+} */
+
+/* 
+.herosection
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: auto;
+} */
+
+#herosection
+{
+    padding:2px;
+    margin: 5px;
+}
+
+.mybody{
+    background-image: url(./web-design-ga7f84eaf4_1920.jpg);
+color:white;
+}
+
+.aboutus{
+    width:100%;
+    height: 100vh;
+    background-color: rgb(241, 191, 98);
+}
+
+.courses{
+  padding: 2px;
+  margin:2px;
+    color:white;
+    background: #2B2928;
+background: -webkit-linear-gradient(right, #2B2928, #DA3F15);
+background: -moz-linear-gradient(right, #2B2928, #DA3F15);
+background: linear-gradient(to left, #2B2928, #DA3F15);
+}
+
+#coursebody
+{background: #1D50C0;
+    background: -webkit-linear-gradient(right, #1D50C0, #89DEE0);
+    background: -moz-linear-gradient(right, #1D50C0, #89DEE0);
+    background: linear-gradient(to left, #1D50C0, #89DEE0);}
